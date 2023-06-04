@@ -17,7 +17,7 @@ Detects age and facial expression.
 
 
 ## Other API
-JavaScript API for Face Recognition in the Browser with tensorflow
+JavaScript API for Face Recognition in the Browser with tensorflow: 
 https://justadudewhohacks.github.io/face-api.js/docs/index.html
 
 <br>
@@ -33,5 +33,4 @@ carjavi@hotmail.com <br>
 
 
 
-# face-detection-browser
-API for Face Recognition in the Browser Realtime Face Tracking
+
