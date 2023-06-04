@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/face-detection.jpg" height="300" alt=" " /></p>
+<p align="center"><img src="./img/face-detection.jpg" height="450" alt=" " /></p>
 <h1 align="center"> Face Detection Browser </h1> 
 <h4 align="right">Jun 23</h4>
 
@@ -12,7 +12,7 @@ Detects age and facial expression.
 > :warning: **Warning:** I you need create a server first fot test it!
 
 
-<p align="center"><img src="./img/face.png" height="200" alt=" " /></p>
+<p align="center"><img src="./img/face.png" height="300" alt=" " /></p>
 
 
 
