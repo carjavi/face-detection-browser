@@ -9,7 +9,7 @@
 
 Detects age and facial expression.
 
-> :warning: **Warning:** I you need create a server first fot test it!
+> :warning: **Warning:** I you need create a server first for test it!
 
 
 <p align="center"><img src="./img/face.png" height="300" alt=" " /></p>
